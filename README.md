@@ -5,10 +5,10 @@
 - 📫 How to reach me ...
 
 <h1>Hey there <a href="https://mmuhib.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
-<p>I'm Muhib, a Fullstack developer</p>
+<p>I'm Hasnat, a Fullstack JS developer</p>
 <h3>
   My portfolio with Some my projects are available<a
-    href="https://mmuhib.com"
+    href="https://hasnatsajid.com"
     target="_blank"
     rel="noopener nofollow noreferrer"
   >
@@ -56,21 +56,14 @@
 </div>
 <h3>Reach me at</h3>
 <p>
-  <span>📫 </span><a href="mailto:info@mmuhib.com">info@mmuhib.com</a>
+  <span>📫 </span><a href="mailto:dev.hassuu@gmail.com">dev.hassuu@gmail.com</a>
 </p>
-<a href="https://www.linkedin.com/in/muhibdev" target="_blank">
+<a href="https://www.linkedin.com/in/hasnat-sajid-192413133/" target="_blank">
   <img
     alt="LinkedIn"
     src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
 /></a>
 <h3>👏 What I am doing for fun</h3>
 <div>
-  <img
-    alt="wordpress"
-    src="https://img.shields.io/badge/-Wordress-21759b?style=flat-square&logo=WordPress&logoColor=white"
-  />
-  <img
-    alt="Shopify"
-    src="https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white"
-  />
+ 
 </div>
