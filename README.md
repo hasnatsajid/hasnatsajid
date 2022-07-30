@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <h1>Hey there <a href="https://hasnatsajid.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
-<p>I'm Hasnat, a Fullstack JS developer</p>
+<p>I'm Hasnat, a MERN stack and Next.js developer</p>
 <h3>
   My portfolio with Some my projects are available<a
     href="https://hasnatsajid.com"
