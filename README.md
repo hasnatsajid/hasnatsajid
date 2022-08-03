@@ -156,9 +156,9 @@ Mac                      65 hrs 43 mins      ███████████�
 </h3>
 
 <p align="center">
-<a href="https://www.aishakhan.me"><img src="https://img.shields.io/badge/-aishakhan.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aisha-khan-6842a91a3/"><img src="https://img.shields.io/badge/-Aisha%20Khan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ak3313069@gmail.com"><img src="https://img.shields.io/badge/-ak3313069@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.hasnatsajid.com"><img src="https://img.shields.io/badge/-aishakhan.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hasnat-sajid-192413133/"><img src="https://img.shields.io/badge/-Aisha%20Khan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:hasnatsajid965@gmail.com"><img src="https://img.shields.io/badge/-ak3313069@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/aishakhan0925"><img src="https://img.shields.io/badge/-@aishakhan0925-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
