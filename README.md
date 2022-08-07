@@ -4,7 +4,7 @@
   <img src="GIF/Hi.gif" width="40px" />
 </p>
 <h2> 😁 About me </h2>
-I am Hasnat 25 years old. aspiring full stack developer with more than 3 years’ experience in the field of web development as well
+I am Hasnat. aspiring full stack developer with years of experience in the field of web development as well
 as linux system administrator. <br />  <br />
 
 Full stack web development is my profession and I strive to deliver semantic
