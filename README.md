@@ -100,7 +100,7 @@ experience.
 
 **🐱 My GitHub Data**
 
-> 📜 150+ Total Repositories
+> 📜 50+ Total Repositories
 
 📅 **I'm Most Productive everyday except Friday**
 
