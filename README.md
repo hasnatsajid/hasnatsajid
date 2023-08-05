@@ -56,12 +56,12 @@ experience.
 <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
 <br/>
 <p align="center">
-<!--   <img src="![Profile views](https://gpvc.arturio.dev/aishakhan0925)" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •   -->
+<!--   <img src="![Profile views](https://gpvc.arturio.dev/hasnatsajid)" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •   -->
 
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=aishakhan0925&style=flat&color=brightgreen"> • <a href="https://user-badge.committers.top/pakistan/aishakhan0925"><img src="https://user-badge.committers.top/pakistan/aishakhan0925.svg"></a> •
-<img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/aishakhan0925?label=Followers&style=social"> •
-<img src="https://img.shields.io/github/stars/aishakhan0925?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
-<a href="https://github.com/sponsors/aishakhan0925"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=hasnatsajid&style=flat&color=brightgreen"> •
+<img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/hasnatsajid?label=Followers&style=social"> •
+<img src="https://img.shields.io/github/stars/hasnatsajid?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
+<a href="https://github.com/sponsors/hasnatsajid"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 
 </p>
 
@@ -86,9 +86,9 @@ experience.
 <br/>
 <h3> 📈 Github Stats </h3>
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aishakhan0925&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aishakhan0925&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/hasnatsajid">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hasnatsajid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hasnatsajid&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <br/>
@@ -100,9 +100,9 @@ experience.
 
 **🐱 My GitHub Data**
 
-> 📜 30 Total Repositories
+> 📜 150+ Total Repositories
 
-📅 **I'm Most Productive on Wednesday**
+📅 **I'm Most Productive everyday except Friday**
 
 ```text
 ⌚︎ Time Zone: Asia/Karachi
