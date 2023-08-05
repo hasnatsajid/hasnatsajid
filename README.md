@@ -3,8 +3,8 @@
   𝐇𝐞𝐥𝐥𝐨, &lt;all/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
 </p>
-<h2> 😁 About me </h2>
-I am Hasnat. aspiring full stack developer with years of experience in the field of web development as well
+<h2> 😎 About me </h2>
+I am Hasnat. Pro full stack software developer with more than 4 years of experience in the field of web development as well
 as linux system administrator. <br />  <br />
 
 Full stack web development is my profession and I strive to deliver semantic
