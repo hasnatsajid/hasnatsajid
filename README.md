@@ -1,36 +1,18 @@
 <p align="center">
   <img src="GIF/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, &lt;all/&gt;!
+<!--   𝐇𝐞𝐥𝐥𝐨, &lt;all/&gt;! -->
   <img src="GIF/Hi.gif" width="40px" />
 </p>
 <h2> 😎 About me </h2>
-I am Hasnat. Pro full stack software developer with more than 4 years of experience in the field of web development as well
-as linux system administrator. <br />  <br />
+I am a software engineer with over 4 years of professional experience in the field of software developement. <br />  <br />
 
-Full stack web development is my profession and I strive to deliver semantic
-markup, to-the-point CSS in conjunction with snappy performance to guarantee a top-notch user
-experience.
 <br />
 <br />
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 with **MERN Stack 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 + NextJs.** <br />
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 working with **Python 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 + FastAPI.** <br />
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.** <br />
+- 🔭 𝙸’m 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 with **MERN Stack 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 + NextJs + Python + FastAPI.** <br />
+- 🌱 𝙸’𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 a bit of **𝙳𝚎𝚟𝙾𝚙𝚜.** <br />
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 (https://github.com/hasnatsajid/hasnatsajid/issues) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙. <br />
 
-### 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -65,7 +47,7 @@ experience.
 
 </p>
 
-### ⚙️ &nbsp;Languages & Tools
+### ⚙️🛠 &nbsp;Languages & Tools
 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
@@ -93,17 +75,6 @@ experience.
 </p>
 <br/>
 
-<h3> ⏳ Time Stats </h3>
-<!--START_SECTION:waka-->
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--3%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data**
-
-> 📜 50+ Total Repositories
-
-📅 **I'm Most Productive everyday except Friday**
-
 ```text
 ⌚︎ Time Zone: Asia/Karachi
 ```
@@ -116,7 +87,7 @@ experience.
 </h3>
 
 <p align="center">
-<a href="https://www.hasnatsajid.com"><img src="https://img.shields.io/badge/-hasnatsajid.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.htech360.co"><img src="https://img.shields.io/badge/-hasnatsajid.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/hasnat-sajid-192413133/"><img src="https://img.shields.io/badge/-Hasnat%20Sajid-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hasnatsajid965@gmail.com"><img src="https://img.shields.io/badge/-hasnatsajid965@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
@@ -126,7 +97,7 @@ experience.
 
 <div align="center">
 
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+### ❤️!
 
 </div>
 
