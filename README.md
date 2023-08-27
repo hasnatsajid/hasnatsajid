@@ -9,7 +9,7 @@ I am a software engineer with over 4 years of professional experience in the fie
 <br />
 <br />
 
-- 🔭 𝙸’m 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 with **MERN Stack 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 + NextJs + Python + FastAPI.** <br />
+- 🔭 𝙸’m 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 with **MERN Stack + NextJs + Python + FastAPI.** <br />
 - 🌱 𝙸’𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 a bit of **𝙳𝚎𝚟𝙾𝚙𝚜.** <br />
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 (https://github.com/hasnatsajid/hasnatsajid/issues) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙. <br />
 
