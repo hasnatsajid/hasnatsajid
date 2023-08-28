@@ -71,7 +71,7 @@ I am a software engineer with over 4 years of professional experience in the fie
 <br />
 [![My Skills](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
 <br />
 [![My Skills](https://skillicons.dev/icons?i=fastapi,nodejs,express)](https://skillicons.dev)
 <br />
