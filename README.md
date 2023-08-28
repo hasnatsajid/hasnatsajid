@@ -67,17 +67,19 @@ I am a software engineer with over 4 years of professional experience in the fie
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,materialui)](https://skillicons.dev)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,ts,bash)](https://skillicons.dev)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,webpack,redux,pug,alpinejs)](https://skillicons.dev)
 <br />
 [![My Skills](https://skillicons.dev/icons?i=fastapi,nodejs,express)](https://skillicons.dev)
 <br />
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,nginx,cloudflare)](https://skillicons.dev)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=postman,vercel,netlify,heroku)](https://skillicons.dev)
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,postgres,mysql,bootstrap,react,fastapi,nodejs,express,mongodb,git,linux)](https://skillicons.dev) -->
 
 <br/>
