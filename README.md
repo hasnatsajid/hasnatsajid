@@ -3,15 +3,14 @@
 <!--   𝐇𝐞𝐥𝐥𝐨, &lt;all/&gt;! -->
   <img src="GIF/Hi.gif" width="40px" />
 </p>
-<h2> 😎 About me </h2>
-I am a software engineer with over 4 years of professional experience in the field of software developement. <br />  <br />
-
+<h2> 😎 About me ❤️🧡💛💚💙💜🖤🤍💖</h2>
+<strong>I am a software engineer with over 4 years of professional experience. </strong><br />  <br />
 <br />
 <br />
 
 - 🔭 𝙸’m 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 with **MERN Stack + NextJs + Python + FastAPI.** <br />
-- 🌱 𝙸’𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 a bit of **𝙳𝚎𝚟𝙾𝚙𝚜.** <br />
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 (https://github.com/hasnatsajid/hasnatsajid/issues) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙. <br />
+- 🌱 𝙸’𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 a bit of **cool stuff.** <br />
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 at (hasnatsajid965@gmail.com) !<br />
 
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -92,12 +91,12 @@ I am a software engineer with over 4 years of professional experience in the fie
 </p>
 <br/>
 
-```text
-⌚︎ Time Zone: Asia/Karachi
-```
+<!--```text
+```-->
 
 <!--END_SECTION:waka-->
 
+<!--
 <h3>
    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="30px"> Connect With Me
  
@@ -108,14 +107,10 @@ I am a software engineer with over 4 years of professional experience in the fie
 <a href="https://www.linkedin.com/in/hasnat-sajid-192413133/"><img src="https://img.shields.io/badge/-Hasnat%20Sajid-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hasnatsajid965@gmail.com"><img src="https://img.shields.io/badge/-hasnatsajid965@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-
+-->
 <br/>
 <br/>
 
 <div align="center">
-
-### ❤️!
-
 </div>
 
-**Last Edited on**: 23/06/2022
