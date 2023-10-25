@@ -3,7 +3,7 @@
 <!--   𝐇𝐞𝐥𝐥𝐨, &lt;all/&gt;! -->
   <img src="GIF/Hi.gif" width="40px" />
 </p>
-<h2> 😎 About me ❤️🧡💛💚💙💜🖤🤍💖</h2>
+<h2> 😎 About me </h2>
 <strong>I am a software engineer with over 4 years of professional experience. </strong><br />  <br />
 <br />
 <br />
