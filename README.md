@@ -8,7 +8,7 @@
 <br />
 <br />
 
-- 🔭 𝙸’m 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 with **MERN Stack + NextJs + Python + FastAPI.** <br />
+- 🔭 𝙸’m 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 with **MERN Stack + NodeJs + NextJs + Python + FastAPI.** <br />
 - 🌱 𝙸’𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 a bit of **cool stuff.** <br />
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 at (hasnatsajid965@gmail.com) !<br />
 
