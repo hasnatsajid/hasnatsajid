@@ -66,17 +66,15 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,go,nodejs)](https://skillicons.dev)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=js,go,nodejs,bash)](https://skillicons.dev)
-<br />
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=webpack,react,nextjs,html,css,sass,bootstrap,tailwind)](https://skillicons.dev)
 <br />
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=git,linux,nginx,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,bash,nginx,cloudflare)](https://skillicons.dev)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=postman,vercel,netlify,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,vercel,netlify)](https://skillicons.dev)
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,postgres,mysql,bootstrap,react,fastapi,nodejs,express,mongodb,git,linux)](https://skillicons.dev) -->
 
 <br/>
