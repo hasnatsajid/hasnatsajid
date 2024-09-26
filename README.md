@@ -4,12 +4,12 @@
   <img src="GIF/Hi.gif" width="40px" />
 </p>
 <h2> 😎 About me </h2>
-<strong>I am a software engineer with years and years of professional experience. </strong><br />  <br />
+<strong>I am a software engineer with 5+ years of professional experience. </strong><br />  <br />
 <br />
 <br />
 
-- 🔭 𝙸’m 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 with **MERN Stack + NodeJs + NextJs + Python + FastAPI.** <br />
-- 🌱 𝙸’𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 a bit of **cool stuff.** <br />
+- 🔭 𝙸’m 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 with **GOlang + Javascript + NodeJs + NextJs.** <br />
+- 🌱 𝙸’𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 mastering some **cool stuff.** <br />
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 at (hasnatsajid965@gmail.com) !<br />
 
 
@@ -51,7 +51,7 @@
 <!-- <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://cdn.simpleicons.org/python/3776AB"></code>
+<code><img height="40" width="40" src="https://cdn.simpleicons.org/go/00ADD8"></code>
 <code><img height="40" width="40" src="https://cdn.simpleicons.org/postgresql/4169E1"></code>
 <code><img height="40" width="40" src="https://cdn.simpleicons.org/mysql/4479A1"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
