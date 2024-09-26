@@ -68,11 +68,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,materialui)](https://skillicons.dev)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=js,py,ts,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,go,bash)](https://skillicons.dev)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,webpack,redux,pug,alpinejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,webpack,pug)](https://skillicons.dev)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=fastapi,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,express)](https://skillicons.dev)
 <br />
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 <br />
