@@ -4,7 +4,7 @@
   <img src="GIF/Hi.gif" width="40px" />
 </p>
 <h2> 😎 About me </h2>
-<strong>I am a pro software engineer with 5+ years of professional experience. </strong><br />  <br />
+<strong>I am an expert software engineer with 5+ years of professional experience. </strong><br />  <br />
 <br />
 <br />
 
