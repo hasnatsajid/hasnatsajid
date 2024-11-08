@@ -9,7 +9,7 @@
 <br />
 
 - 🔭 𝙸’m 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 with **GOlang + Javascript + NodeJs + NextJs.** <br />
-- 🌱 𝙸’𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 mastering some **cool stuff.** <br />
+- 🌱 𝙸’𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 some **cool stuff.** <br />
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 at (dev.hassuu@gmail.com) !<br />
 
 
